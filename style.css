@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.continer{
+    width: 100%;
+    background-color: brown;
+    color:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.card{
+    background-color: white;
+    height: 25rem;
+    width: 20rem;
+}
+.title{
+    color:black;
+}
+.bhagavad-gita-image{
+    height:10rem;
+    width:100%;
+    object-fit: cover;
+}
+.headline{
+    text-align: center;
+
+}
+.para{
+    margin: 10px;
+}
+
